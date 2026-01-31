@@ -1,0 +1,7 @@
+{
+  "name": "NurseCalc Pro: Urgência, Emergência & UTI",
+  "description": "Calculadora avançada de enfermagem baseada em PHTLS, ATLS, ACLS, PALS e diretrizes ministeriais. Inclui escalas neurológicas, protocolos de queimados, pediatria e sequencia rápida de intubação.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
